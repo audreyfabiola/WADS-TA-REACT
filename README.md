@@ -10,5 +10,5 @@ Currently, two official plugins are available:
 Reference: https://medium.com/@dimterion/making-a-todo-app-with-react-73bca4a4b944
 
 ### FastAPI
-![Table](/assets/Table.png)
+![Table](/assets/Table.jpg)
 ![fastAPI](/assets/FastAPI.png)
